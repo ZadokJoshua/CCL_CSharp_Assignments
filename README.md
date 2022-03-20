@@ -6,6 +6,7 @@ This repository contains the solutions to the following assignments:
 2. Separate into their corresponding programming language in page.
 
 3. Express this image in C# format.
+
 ![image](https://user-images.githubusercontent.com/65626254/159171512-75716ed2-504e-4ce0-a989-40a607e192e0.png)
 
 4. If a=10, b=20, c=30. Programmatically determine if a equal to b and c is greater than a+b-c and c-b is equal to  a.
